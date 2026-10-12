@@ -16,7 +16,7 @@ fun printGreeting2()=println("Hello Kotlin print")
 fun main() { // fun main(): Unit A non meaningfull return type
     printGreeting()//Calling printGreeting function
     println(getGreeting())//Calling to return by getGreeting
-
+    printGreeting2()
     //Single expression function inide main
     fun getGreeting2() = "Hello Kotlin get"
     println(getGreeting2())

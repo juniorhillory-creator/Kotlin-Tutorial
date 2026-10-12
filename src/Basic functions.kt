@@ -1,4 +1,3 @@
-
 //creating functions
 fun printGreeting(){
     println("Hello World")//inbuilt print
@@ -11,7 +10,7 @@ fun getGreeting(): String{
 }
 
 //Single expression function, Publically available function
-public fun printGreeting2()=println("Hello Kotlin print")
+fun printGreeting2()=println("Hello Kotlin print")
 
 //main body
 fun main() { // fun main(): Unit A non meaningfull return type

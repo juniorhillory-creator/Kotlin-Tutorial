@@ -1,3 +1,4 @@
+//01_Kotlin_Essential_Training
 fun main(){
     //Nullable types
     //how to represent absence of data in Kotlin?

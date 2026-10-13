@@ -1,4 +1,4 @@
-//Stepping through the code
+//evaluate expressions and add watches
 /* A break point can suspend a line of application*/
 
 import kotlin.random.Random

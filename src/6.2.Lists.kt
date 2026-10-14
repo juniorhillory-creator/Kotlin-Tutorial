@@ -2,7 +2,7 @@
 fun main(){
     var stringList: List<String> =listOf("kotlin","code","puppy")
     var listOfInt=listOf(1,2,3,null)
-    val doubledValues=List<Int>("5"){
+    val doubledValues=List<Int>(5){
         index-> 2*index
     }
     doubledValues.forEach{ println(it) }
